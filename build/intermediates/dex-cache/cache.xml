@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\adesina\Documents\github projects\CheckGitHub\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9063f36d2091c261f891f52458e69f16365b12e">
+        <dex dex="C:\Users\adesina\Documents\github projects\CheckGitHub\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_64c7ed4edca23bed71f188cfdc31a2deb3c29cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adesina\Documents\github projects\CheckGitHub\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\adesina\Documents\github projects\CheckGitHub\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9fe6d4515554d3b78b493ebcc94f624478c3383f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adesina\.android\build-cache\d0a311df4e732848f923288e670473a48cea1f66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\adesina\Documents\github projects\CheckGitHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd1b398c87149d0d9fa4b265dc3d96540d49546d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adesina\.android\build-cache\5afdf5aa8026e151b2f6e89933266566dd0b02b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\adesina\Documents\github projects\CheckGitHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_098669371a5e65ceeac3d9eeb9c067cf470516dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adesina\.android\build-cache\92786c6912ca99b505e1e528dd5d83871c5c8a13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\adesina\Documents\github projects\CheckGitHub\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3417f4ae6302d6696cb17b2080dbcf5de852b9b\classes.dex" />
+    </item>
+
+</items>
